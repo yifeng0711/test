@@ -1,0 +1,27 @@
+1 VERSIONINFO
+FILEVERSION 3,0,28,859
+PRODUCTVERSION 3,0,28,859
+FILEFLAGSMASK 0x17L
+
+FILEOS 0x4L
+FILETYPE 0x1L
+FILESUBTYPE 0x9L
+BEGIN
+	BLOCK "StringFileInfo"
+	BEGIN
+		BLOCK "080404b0"
+		BEGIN
+			VALUE "FileDescription", "Goldmsg LEVAM Workstation V3"
+			VALUE "CompanyName", "GoldMsg Guangzhou China"
+			VALUE "FileVersion", "3,0,28,859"
+			VALUE "LegalCopyright", "GoldMsg CopyRight (C) 2005-2018"
+			VALUE "LegalTrademarks", "GoldMsg"
+			VALUE "ProductVersion", "3,0,28,859"
+			VALUE "ProductName", "Goldmsg LEVAM Workstation V3"
+		END
+	END
+	BLOCK "VarFileInfo"
+	BEGIN
+		VALUE "Translation", 0x804, 1200
+	END
+END
